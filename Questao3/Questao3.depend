@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1505226018 source:c:\users\aluno\desktop\r\empregado.cpp
+	"Empregado.h"
+
+1505225726 c:\users\aluno\desktop\r\empregado.h
+	<iostream>
+	<string>
+
+1505225941 source:c:\users\aluno\desktop\r\questao3\main.cpp
+	<iostream>
+	"../Empregado.h"
+
