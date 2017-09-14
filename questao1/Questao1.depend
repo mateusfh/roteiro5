@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1505224240 source:c:\users\caio\desktop\prog codeblocks\questao1\main.cpp
+	<cstdlib>
+	<iostream>
+	"Data.h"
+
+1505224189 c:\users\caio\desktop\prog codeblocks\questao1\include\data.h
+	<iostream>
+
+1505224189 source:c:\users\caio\desktop\prog codeblocks\questao1\src\data.cpp
+	"Data.h"
+
